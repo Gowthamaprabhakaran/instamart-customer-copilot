@@ -23,7 +23,7 @@ All LLM interactions use the supplied `mock_llm.py`. No external API key or real
 
 ### Repository
 
-GitHub repository: [instamart-customer-copilot](https://github.com/Gowthamaprabhakaran/instamart-customer-copilot)
+GitHub repository: [instamart-customer-copilot](https://github.com/Gowthamaprabhakaran/instamart-customer-copilot/tree/main)
 
 Branch: `main`
 
